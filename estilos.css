@@ -1,0 +1,11 @@
+*{
+	text-align: center;
+}
+img{
+	width: 300px;
+	height: 200px;
+}
+#save{
+	border: solid 2px;
+	border-radius: 10px 10px 10px 10px;
+}
